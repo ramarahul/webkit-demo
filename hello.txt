@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hello World
 
 ================
 
 Summary
+=======
+Hello World
+>>>>>>> summary
